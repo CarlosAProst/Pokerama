@@ -35,10 +35,10 @@ body{
 }
 
 .cartas{
-    
+
     min-width: 20px;
     min-height: 40px;
-    width: 60px;
+    width: 70px;
     height: 80px;
     background-image: url('../../assets/lomo_carta.jpg');
     background-repeat: no-repeat;
